@@ -1,0 +1,43 @@
+{
+  "medicineData": [
+    
+    {
+      "id": 972,
+      "name": "z",
+      "price": "20",
+      "quantity": "30",
+      "expiry": "50"
+    },
+    {
+      "id": 670,
+      "name": "tyo",
+      "price": "222",
+      "quantity": "333",
+      "expiry": "555"
+    },
+    {
+      "id": 265,
+      "name": "fff",
+      "price": "20",
+      "quantity": "30",
+      "expiry": "30"
+    },
+    {
+      "id": 507,
+      "name": "jjj",
+      "price": "10",
+      "quantity": "20",
+      "expiry": "90"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
